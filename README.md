@@ -1,2 +1,2 @@
 # AlNafi-Data-Science
-This is my first repo for R course.
+print("This is my first repo for R course".)
